@@ -1,3 +1,9 @@
+
+
+
+Author
+Hendrix Kawiza
+
 # React Project
 
 This is a simple React project built while learning frontend development.  
